@@ -1,0 +1,1 @@
+array[i]==array[j] ==-1;
